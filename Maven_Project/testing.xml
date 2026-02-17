@@ -1,0 +1,10 @@
+<suit name="sravan">
+<test name="testngreports" parallel="false">
+<classes>
+<class name="testcases.FirstTestNGClass">
+</class>
+<class name="SecondTestNGClass">
+</class>
+</classes>
+</test>
+</suit>
